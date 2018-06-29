@@ -1,3 +1,5 @@
 # HopShop-dev
 
-Description README :
+###version :
+
+* 1.0
